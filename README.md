@@ -47,4 +47,4 @@ Welcome to my GitHub profile. Feel free to explore my projects and connect with 
 ---
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIGHT131313&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIGHT131313&theme=blue_green) <a href=""><img src="https://streak-stats.demolab.com?user=LIGHT131313&theme=blue-green&hide_border=true" alt="GitHub Streak" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIGHT131313&theme=blue_green) <img src="https://streak-stats.demolab.com?user=LIGHT131313&theme=blue-green&hide_border=true" alt="GitHub Streak" />
