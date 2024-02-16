@@ -46,7 +46,7 @@ Welcome to my GitHub profile. Feel free to explore my projects and contact me if
 
 ---
 
-<div>
+<div style="text-align: center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIGHT131313&theme=blue_green" alt="GitHub Profile Most Commit" />
     <img height="200px" src="https://streak-stats.demolab.com?user=LIGHT131313&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=348" alt="GitHub Streak" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIGHT131313&theme=blue_green" alt="GitHub Profile Details" />
