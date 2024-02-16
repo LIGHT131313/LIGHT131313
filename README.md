@@ -1,11 +1,11 @@
-<a href="https://github.com/LIGHT131313"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F760&random=false&width=435&lines=Hi+there%2C+I'm+%40LIGHT131313" alt="Typing SVG" /></a>
+<a href="https://github.com/LIGHT131313"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F760&random=false&width=435&lines=Hi+there%2C+I'm+LIGHT131313%F0%9F%98%8E" alt="Typing SVG" /></a>
 
-Welcome to my GitHub profile. Feel free to explore my projects and connect with me. If you have any questions or just want to chat about coding, don't hesitate to reach out. Happy coding!
+Welcome to my GitHub profile. Feel free to explore my projects and contact me if you have any questions or suggestions for cooperation. Have a nice day and easy exploration of my profile.
 
-- 🔭 I’m currently working on **crafting digital experiences and coding my way through exciting projects.**
+- 🔭 Currently working on **crafting digital experiences and coding my way through exciting projects.**
 - 👯 I’m open to **new collaborations and projects, and I'm ready for challenges.**
-- 🤔 I’m looking for help with **exploring new coding horizons, collaborating on innovative projects, and sharing insights on the latest tech trends.**
-- 💬 Ask me about **my journey from the high seas as a ship officer to the world of web development! I'm also happy to chat about HTML, CSS, JavaScript, React and anything related to creating exciting user experiences.**
+- 🤔 Looking for help with **exploring new coding horizons, collaborating on innovative projects, and sharing insights on the latest tech trends.**
+- 💬 Ask me about **my experience in sales which helps me in web development! I'm also happy to chat about web development👨‍💻, the gym💪, Apple🍏, and anything related to new and exciting experiences.**
 - 📫 How to reach me: **131313light@gmail.com**
 
 ### Languages and Tools:
@@ -39,15 +39,15 @@ Welcome to my GitHub profile. Feel free to explore my projects and connect with 
 ### Learning:
 
 <div>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+	<img width="50" src="./image/sass.png" alt="Sass" title="Sass"/>
+	<img width="50" src="./image/ts.png" alt="TypeScript" title="TypeScript"/>
+    <img width="50" src="./image/docker.png" alt="Docker" title="Docker"/>
 </div>
 
 ---
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIGHT131313&theme=blue_green" alt="GitHub Profile Details" />
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIGHT131313&theme=blue_green) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIGHT131313&theme=blue_green)  -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIGHT131313&theme=blue_green" alt="GitHub Profile Most Commit" />
-<img src="https://streak-stats.demolab.com?user=LIGHT131313&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+<div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIGHT131313&theme=blue_green" alt="GitHub Profile Most Commit" />
+    <img height="200px" src="https://streak-stats.demolab.com?user=LIGHT131313&theme=blue-green&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=348" alt="GitHub Streak" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIGHT131313&theme=blue_green" alt="GitHub Profile Details" />
+</div>
